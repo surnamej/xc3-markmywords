@@ -1,0 +1,8 @@
+[AZURE]
+api = [API_KEY]
+endpoint = [API_ENDPOINT]
+model_name = [MODEL_NAME]
+[DATA_PATH]
+raw_book = data/raw_book
+transform_book = data/transform_book
+final_book = data/final

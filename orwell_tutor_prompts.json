@@ -1,0 +1,602 @@
+[
+    {
+        "book": "Nineteen Eighty-Four",
+        "prompts": "Generate a quiz question that assesses the role of Big Brother in shaping public perception in Chapter 1.",
+        "format": "MCQs"
+    },
+    {
+        "book": "Nineteen Eighty-Four",
+        "prompts": "Create a short answer question about how Orwell depicts the concept of doublethink in Part 1.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "Nineteen Eighty-Four",
+        "prompts": "Design an essay question exploring Winston's internal conflict and how it manifests through his thoughts and actions in the story.",
+        "format": "Essay"
+    },
+    {
+        "book": "Nineteen Eighty-Four",
+        "prompts": "Create a passage-based question asking students to analyze the significance of the description of the Ministry of Love in Chapter 2.",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "Nineteen Eighty-Four",
+        "prompts": "Generate a paragraph-answer question focusing on the role of surveillance and its psychological effects on citizens in Oceania.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "Nineteen Eighty-Four",
+        "prompts": "Design a question comparing and contrasting the Party's manipulation of history with modern media practices in the context of Chapter 3.",
+        "format": "Essay"
+    },
+    {
+        "book": "Nineteen Eighty-Four",
+        "prompts": "Create a short answer question examining the purpose of Newspeak in limiting independent thought in Winston's society.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "Nineteen Eighty-Four",
+        "prompts": "Generate a quiz question assessing the symbolism of the glass paperweight in Winston's life and its broader implications.",
+        "format": "MCQs"
+    },
+    {
+        "book": "Nineteen Eighty-Four",
+        "prompts": "Design a passage-based question asking students to evaluate the relationship between Winston and Julia as depicted in Chapter 8.",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "Nineteen Eighty-Four",
+        "prompts": "Create a question prompting students to write a paragraph explaining the significance of the Party's slogan 'War is Peace, Freedom is Slavery, Ignorance is Strength.'",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "Shooting an Elephant",
+        "prompts": "Design a multiple choice question that focuses on Orwell's internal conflict and its impact on his actions.",
+        "format": "MCQs"
+    },
+    {
+        "book": "Shooting an Elephant",
+        "prompts": "Generate a short-answer question exploring how Orwell uses symbolism, such as the elephant, to reflect on British imperialism.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "Shooting an Elephant",
+        "prompts": "Create an essay question discussing how Orwell critiques imperialism through the narrator's experience and decision-making.",
+        "format": "Essay"
+    },
+    {
+        "book": "Shooting an Elephant",
+        "prompts": "Generate a paragraph question asking students to analyze how peer pressure shapes the narrator’s actions in the story.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "Shooting an Elephant",
+        "prompts": "Create a passage-based question asking students to interpret Orwell's tone and the significance of the crowd's behavior in a key excerpt.",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "Shooting an Elephant",
+        "prompts": "Generate a multiple-choice question about how Orwell portrays the theme of identity in the colonial setting.",
+        "format": "MCQs"
+    },
+    {
+        "book": "Shooting an Elephant",
+        "prompts": "Ask students to summarize the narrator's motivations and their relationship with imperialism in a concise paragraph response.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "Shooting an Elephant",
+        "prompts": "Design a short-answer question that examines Orwell's use of irony in the conclusion of the essay.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "Shooting an Elephant",
+        "prompts": "Create an essay question asking students to evaluate the moral dilemmas faced by the narrator and discuss how these dilemmas reflect Orwell's attitudes toward colonialism.",
+        "format": "Essay"
+    },
+    {
+        "book": "Shooting an Elephant",
+        "prompts": "Generate a passage-based question analyzing the narrator's perspective and the shift in tone between the opening and the climax.",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "Homage to Catalonia",
+        "prompts": "Generate a multiple-choice question analyzing the role of political parties and factions in Orwell's depiction of the Spanish Civil War.",
+        "format": "MCQs"
+    },
+    {
+        "book": "Homage to Catalonia",
+        "prompts": "Create a short answer question asking students to explain Orwell's firsthand perspective on the nature of war as described in Chapter 3.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "Homage to Catalonia",
+        "prompts": "Design an essay question that explores Orwell’s critique of propaganda and its impact on the international narrative of the Spanish Civil War.",
+        "format": "Essay"
+    },
+    {
+        "book": "Homage to Catalonia",
+        "prompts": "Develop a paragraph answer question focusing on the theme of unity and division within the Republican factions as portrayed through Orwell’s observations in Chapters 5 and 6.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "Homage to Catalonia",
+        "prompts": "Provide a passage from the book (e.g., Orwell’s description of the trenches) and design a critical thinking question about how Orwell’s use of language evokes the harsh realities of war.",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "Homage to Catalonia",
+        "prompts": "Generate a quiz question comparing Orwell’s idealism at the beginning of his time in Catalonia to his disillusionment by the end of the book.",
+        "format": "Quiz"
+    },
+    {
+        "book": "Homage to Catalonia",
+        "prompts": "Ask students to summarize the socio-political structure of the militia groups as described by Orwell and analyze their effectiveness in a short-answer format.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "Homage to Catalonia",
+        "prompts": "Create an essay prompt discussing the interplay between Orwell's personal experiences and his broader critique of Marxist ideology in the context of the Spanish Civil War.",
+        "format": "Essay"
+    },
+    {
+        "book": "Homage to Catalonia",
+        "prompts": "Generate a paragraph question asking students to interpret Orwell's views on the role of class in the Spanish Civil War as discussed in the book.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "Homage to Catalonia",
+        "prompts": "Design a passage-based assignment focusing on Orwell’s reflections about Barcelona and the revolutionary atmosphere, asking students to analyze the juxtaposition of optimism and chaos in his description.",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "Coming Up for Air",
+        "prompts": "Design a multiple-choice question that examines George Bowling's reflections on his boyhood and the themes of nostalgia.",
+        "format": "MCQs"
+    },
+    {
+        "book": "Coming Up for Air",
+        "prompts": "Generate a quiz question focusing on the depiction of George Bowling's relationship with his wife, Hilda.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "Coming Up for Air",
+        "prompts": "Create an essay question analyzing how Orwell critiques consumerism and modern life through the character of George Bowling.",
+        "format": "Essay"
+    },
+    {
+        "book": "Coming Up for Air",
+        "prompts": "Draft a paragraph-based question asking students to explore the theme of escapism in George Bowling’s visit to Lower Binfield.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "Coming Up for Air",
+        "prompts": "Generate a passage-based question asking students to analyze Orwell’s use of descriptive imagery in Lower Binfield from an excerpt of the novel.",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "Coming Up for Air",
+        "prompts": "Summarize George Bowling’s thoughts on modern life and develop critical-thinking questions for paragraph answers.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "Coming Up for Air",
+        "prompts": "Create a discussion question addressing the theme of political disillusionment as reflected in George’s observations.",
+        "format": "Essay"
+    },
+    {
+        "book": "Coming Up for Air",
+        "prompts": "Generate a quiz question analyzing the significance of George Bowling’s decision to return to his childhood hometown.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "Coming Up for Air",
+        "prompts": "Design a critical-thinking question asking students to examine Orwell’s portrayal of pre-war England through George Bowling’s lens.",
+        "format": "Essay"
+    },
+    {
+        "book": "Coming Up for Air",
+        "prompts": "Create a multiple-choice question assessing students’ understanding of the social commentary Orwell provides in the novel.",
+        "format": "MCQs"
+    },
+    {
+        "book": "A Clergyman's Daughter",
+        "prompts": "Design a multiple choice question examining Dorothy's motivations during her interaction with her father in Chapter 1.",
+        "format": "MCQs"
+    },
+    {
+        "book": "A Clergyman's Daughter",
+        "prompts": "Summarize the impact of societal expectations on Dorothy's decisions for a short answer response.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "A Clergyman's Daughter",
+        "prompts": "Create an essay question exploring the themes of faith and personal sacrifice as they appear throughout the novel.",
+        "format": "Essay"
+    },
+    {
+        "book": "A Clergyman's Daughter",
+        "prompts": "Generate a paragraph answer question focusing on Dorothy's transformation during her stay in London.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "A Clergyman's Daughter",
+        "prompts": "Analyze the passage where Dorothy experiences amnesia for a detailed passage-based question.",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "A Clergyman's Daughter",
+        "prompts": "Design a multiple choice question examining the significance of Dorothy's attempts to maintain social decorum despite personal struggles.",
+        "format": "MCQs"
+    },
+    {
+        "book": "A Clergyman's Daughter",
+        "prompts": "Discuss the role of minor characters in shaping Dorothy's worldview for a paragraph-style thinking question.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "A Clergyman's Daughter",
+        "prompts": "Create a short answer question focusing on the symbolic meaning of the garden behind Dorothy's home in the village.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "A Clergyman's Daughter",
+        "prompts": "Develop a passage-based question analyzing the depiction of poverty and its effect on Dorothy during her experiences in London.",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "A Clergyman's Daughter",
+        "prompts": "Write an essay question that considers how Dorothy's struggle with faith reflects George Orwell's broader critique of religious and societal norms.",
+        "format": "Essay"
+    },
+    {
+        "book": "Down and Out in Paris and London",
+        "prompts": "Design a multiple choice question exploring the hardships Orwell experienced while working in the Parisian restaurant kitchens.",
+        "format": "MCQs"
+    },
+    {
+        "book": "Down and Out in Paris and London",
+        "prompts": "Write a short answer question that analyzes the role of poverty in shaping Orwell's perspective throughout the book.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "Down and Out in Paris and London",
+        "prompts": "Create an essay question about Orwell's depiction of social class disparities between Paris and London.",
+        "format": "Essay"
+    },
+    {
+        "book": "Down and Out in Paris and London",
+        "prompts": "Summarize Orwell's experience as he transitions from Paris to London, focusing on the differences in the struggles he encounters, and design a question for paragraph-based analysis.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "Down and Out in Paris and London",
+        "prompts": "Generate a passage-based question examining Orwell’s description of his lodging in Paris and its symbolism in conveying poverty.",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "Down and Out in Paris and London",
+        "prompts": "Create a quiz question about the role of camaraderie among the impoverished characters Orwell introduces in both cities.",
+        "format": "MCQs"
+    },
+    {
+        "book": "Down and Out in Paris and London",
+        "prompts": "Write a short answer question exploring Orwell's view on dignity and pride among the poor as depicted in the book.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "Down and Out in Paris and London",
+        "prompts": "Develop an essay question analyzing Orwell's critique of societal structures that perpetuate poverty.",
+        "format": "Essay"
+    },
+    {
+        "book": "Down and Out in Paris and London",
+        "prompts": "Design a paragraph-based question examining Orwell's use of humor and irony in describing his experiences.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "Down and Out in Paris and London",
+        "prompts": "Generate a passage-based question focusing on Orwell’s description of a particular scene in the book where poverty is most vividly portrayed.",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "Keep the Aspidistra Flying",
+        "prompts": "Generate a quiz question about Gordon Comstock's decision to abandon his job and pursue poetry, focusing on his motivations and societal pressures.",
+        "format": "MCQs"
+    },
+    {
+        "book": "Keep the Aspidistra Flying",
+        "prompts": "Craft a short answer question analyzing the symbolic significance of the aspidistra plant in relation to Gordon's rebellion against middle-class values.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "Keep the Aspidistra Flying",
+        "prompts": "Create an essay question about how Orwell critiques commercialism and consumerism through Gordon's struggles and interactions with other characters.",
+        "format": "Essay"
+    },
+    {
+        "book": "Keep the Aspidistra Flying",
+        "prompts": "Write a paragraph-based question exploring the internal conflict Gordon faces between artistic idealism and financial stability in Chapter 5.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "Keep the Aspidistra Flying",
+        "prompts": "Provide a passage from the chapter where Gordon argues with Rosemary about his worldview, and ask students to analyze its implications on their relationship.",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "Keep the Aspidistra Flying",
+        "prompts": "Generate an MCQ asking students to identify which trait best describes Gordon’s character based on his behavior at the bookshop: a) Self-righteous, b) Cynical, c) Selfless, d) Opportunistic.",
+        "format": "MCQs"
+    },
+    {
+        "book": "Keep the Aspidistra Flying",
+        "prompts": "Design a short answer question that asks students to evaluate why Gordon is disdainful toward advertising and its impact on his sense of self-worth.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "Keep the Aspidistra Flying",
+        "prompts": "Ask students to write an essay discussing how Orwell portrays class conflict through Gordon's interactions with higher and lower socioeconomic groups.",
+        "format": "Essay"
+    },
+    {
+        "book": "Keep the Aspidistra Flying",
+        "prompts": "Create a paragraph-answer question focusing on Rosemary’s role as a stabilizing force for Gordon, despite his cynicism and erratic behavior.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "Keep the Aspidistra Flying",
+        "prompts": "Select a passage where Gordon reflects on his disdain for money and societal conventions, and ask students to analyze the language Orwell uses to express self-loathing and existential frustration.",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "Burmese Days",
+        "prompts": "Generate a quiz question focused on the theme of colonialism and its effects on both native Burmese characters and British expatriates.",
+        "format": "MCQs"
+    },
+    {
+        "book": "Burmese Days",
+        "prompts": "Summarize the character arc of John Flory and create critical questions regarding his internal conflicts for paragraph answers.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "Burmese Days",
+        "prompts": "Create an essay question about how George Orwell critiques imperialism through symbolism in Burmese Days.",
+        "format": "Essay"
+    },
+    {
+        "book": "Burmese Days",
+        "prompts": "Identify key passages from the book that depict the cultural clash between the British and Burmese societies and ask students to analyze their significance.",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "Burmese Days",
+        "prompts": "Generate short answer questions about the relationship between Elizabeth Lackersteen and John Flory, focusing on their interactions and dynamics.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "Burmese Days",
+        "prompts": "Design a multiple-choice question to test the student’s understanding of U Po Kyin's motivations and schemes.",
+        "format": "MCQs"
+    },
+    {
+        "book": "Burmese Days",
+        "prompts": "Ask students to compare and contrast the settings of the European Club and the native village to explore how Orwell uses setting to reinforce themes of segregation.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "Burmese Days",
+        "prompts": "Create an essay prompt analyzing how gender dynamics influence Elizabeth Lackersteen’s decisions throughout the novel.",
+        "format": "Essay"
+    },
+    {
+        "book": "Burmese Days",
+        "prompts": "Select a passage that highlights the deterioration of John Flory's mental state and ask students to interpret it in relation to his broader struggles with identity.",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "Burmese Days",
+        "prompts": "Generate short answer questions regarding the moral dilemmas faced by Dr. Veraswami and their implications within the colonial context.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "Fifty Orwell Essays",
+        "prompts": "Generate a multiple-choice question about Orwell's critique of imperialism as outlined in 'Shooting an Elephant.'",
+        "format": "MCQs"
+    },
+    {
+        "book": "Fifty Orwell Essays",
+        "prompts": "Design a short answer question about Orwell's use of anecdotes in 'A Hanging.'",
+        "format": "Short Answer"
+    },
+    {
+        "book": "Fifty Orwell Essays",
+        "prompts": "Create an essay prompt discussing Orwell's views on language and politics as revealed in 'Politics and the English Language.'",
+        "format": "Essay"
+    },
+    {
+        "book": "Fifty Orwell Essays",
+        "prompts": "Generate a paragraph answer question that examines Orwell's personal reflections in 'Such, Such Were the Joys.'",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "Fifty Orwell Essays",
+        "prompts": "Provide a passage-based question where students analyze Orwell's depiction of poverty in 'Down and Out in Paris and London.'",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "Fifty Orwell Essays",
+        "prompts": "Create a quiz question testing the student’s understanding of Orwell’s critique of totalitarianism in 'Why I Write.'",
+        "format": "MCQs"
+    },
+    {
+        "book": "Fifty Orwell Essays",
+        "prompts": "Generate a short answer question exploring Orwell's thoughts on social justice in 'The Spike.'",
+        "format": "Short Answer"
+    },
+    {
+        "book": "Fifty Orwell Essays",
+        "prompts": "Develop an essay question about how Orwell’s personal experiences shaped his view on colonialism in 'Shooting an Elephant' and 'Marrakech.'",
+        "format": "Essay"
+    },
+    {
+        "book": "Fifty Orwell Essays",
+        "prompts": "Summarize themes of nostalgia in 'Such, Such Were the Joys,' and create a critical discussion question for paragraph response.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "Fifty Orwell Essays",
+        "prompts": "Generate a passage-based question on Orwell’s descriptive writing style in 'A Hanging.'",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "Animal Farm",
+        "prompts": "Design a multiple choice question focusing on the significance of the commandments and how they change throughout the story.",
+        "format": "MCQs"
+    },
+    {
+        "book": "Animal Farm",
+        "prompts": "Summarize the role of propaganda and analyze how Squealer manipulates language to control the other animals in Chapter 3 for a short-response question.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "Animal Farm",
+        "prompts": "Write an essay discussing the theme of power and corruption, citing examples from Napoleon’s rise and governance.",
+        "format": "Essay"
+    },
+    {
+        "book": "Animal Farm",
+        "prompts": "Describe the character traits of Boxer and analyze how his behavior reflects the larger theme of loyalty and exploitation for a paragraph response.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "Animal Farm",
+        "prompts": "Based on the passage in Chapter 7 where Squealer justifies the massacre of dissenting animals, create critical questions about the use of fear as a tool for control.",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "Animal Farm",
+        "prompts": "Generate a quiz question examining the symbolism of the windmill and its significance to the animal's labor.",
+        "format": "MCQs"
+    },
+    {
+        "book": "Animal Farm",
+        "prompts": "Explain the significance of the final scene in the book where the pigs and humans are indistinguishable for a short-response question.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "Animal Farm",
+        "prompts": "Create an essay question analyzing how Orwell critiques societal hierarchies through the relationships between different groups of animals.",
+        "format": "Essay"
+    },
+    {
+        "book": "Animal Farm",
+        "prompts": "Discuss the transformation of Snowball and Napoleon’s ideologies post-rebellion and their impact on the governance model for a paragraph response.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "Animal Farm",
+        "prompts": "Using the speech delivered by Old Major in Chapter 1, create a question that explores its persuasive techniques and their intention to inspire rebellion.",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "Politics and the English Language",
+        "prompts": "Create a multiple-choice question about George Orwell's definition of 'bad writing' as described in the essay.",
+        "format": "MCQs"
+    },
+    {
+        "book": "Politics and the English Language",
+        "prompts": "Generate short answer questions exploring Orwell's arguments about how language can shape political thought.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "Politics and the English Language",
+        "prompts": "Design an essay question on how Orwell connects vagueness and incompetence to political writing.",
+        "format": "Essay"
+    },
+    {
+        "book": "Politics and the English Language",
+        "prompts": "Formulate a paragraph-answer question on Orwell's critique of dying metaphors in political language.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "Politics and the English Language",
+        "prompts": "Create a passage-based question asking students to interpret Orwell's analysis of a specific excerpt critiquing unclear language.",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "Politics and the English Language",
+        "prompts": "Produce a multiple-choice question about Orwell's six rules for avoiding the decline of language.",
+        "format": "MCQs"
+    },
+    {
+        "book": "Politics and the English Language",
+        "prompts": "Request short answer questions analyzing Orwell's use of examples to illustrate the misuse of language.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "Politics and the English Language",
+        "prompts": "Generate an essay question discussing Orwell's assertion that political and economic factors have contributed to the decline of language.",
+        "format": "Essay"
+    },
+    {
+        "book": "Politics and the English Language",
+        "prompts": "Compose a paragraph-answer question asking students to evaluate Orwell's critique of 'pretentious diction' in writing.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "Politics and the English Language",
+        "prompts": "Design a passage-based question prompting students to analyze Orwell's tone and purpose in a provided abstract.",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "The Road to Wigan Pier",
+        "prompts": "Design a multiple-choice question on Orwell's depiction of working-class conditions in Part 1.",
+        "format": "MCQs"
+    },
+    {
+        "book": "The Road to Wigan Pier",
+        "prompts": "Summarize how Orwell uses descriptive imagery to portray industrial landscapes and create a short-answer question about its impact on the reader.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "The Road to Wigan Pier",
+        "prompts": "Create an essay question discussing Orwell's critique of socialism and the barriers to its acceptance among the middle class.",
+        "format": "Essay"
+    },
+    {
+        "book": "The Road to Wigan Pier",
+        "prompts": "Analyze Orwell's observations on the lifestyle of miners and develop a paragraph-answer question that examines the comparison of their living conditions to those of other working-class groups.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "The Road to Wigan Pier",
+        "prompts": "Generate a passage-based question that asks students to interpret the tone Orwell uses to describe the slum housing during the Great Depression.",
+        "format": "Passage-Based"
+    },
+    {
+        "book": "The Road to Wigan Pier",
+        "prompts": "Design a quiz question that evaluates Orwell’s views on the role of literature in advocating social change, referencing Part 2.",
+        "format": "MCQs"
+    },
+    {
+        "book": "The Road to Wigan Pier",
+        "prompts": "Create a short-answer question analyzing Orwell's perspective on class prejudice and its difficulty in unifying socialism.",
+        "format": "Short Answer"
+    },
+    {
+        "book": "The Road to Wigan Pier",
+        "prompts": "Develop an essay question that explores Orwell’s personal struggle with the bourgeois identity he critiques, referencing examples from the text.",
+        "format": "Essay"
+    },
+    {
+        "book": "The Road to Wigan Pier",
+        "prompts": "Write a paragraph-answer question that examines Orwell’s reflections on the potential hypocrisy within socialist movements.",
+        "format": "Paragraph Answer"
+    },
+    {
+        "book": "The Road to Wigan Pier",
+        "prompts": "Generate a passage-based question asking students to analyze Orwell’s narrative voice and its effectiveness in conveying empathy for the poor.",
+        "format": "Passage-Based"
+    }
+]

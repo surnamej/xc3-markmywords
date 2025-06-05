@@ -1,0 +1,19 @@
+
+services:
+  vectordb:
+    image: chromadb/chroma:0.5.16
+    container_name: chroma_docker
+    ports:
+      - "8000:8000"
+    env_file:
+      - ./.env
+    volumes:
+      - ./my_db:/chroma/my_db
+
+  chroma_ui:
+    build: ./ui  # <-- Build our own Streamlit UI app
+    container_name: chroma_ui
+    ports:
+      - "8501:8501"
+    depends_on:
+      - vectordb

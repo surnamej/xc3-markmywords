@@ -1,0 +1,12 @@
+# Core Transformers and PyTorch
+torch>=2.2.0
+transformers>=4.40.0 
+accelerate>=0.29.0   
+datasets>=2.19.0     
+peft>=0.11.1         
+bitsandbytes>=0.43.1 
+trl>=0.8.0          
+chromadb>=0.4.24      
+spacy>=3.4.0         
+gradio==4.38.1       
+packaging            
